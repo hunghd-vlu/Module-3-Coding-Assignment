@@ -1,0 +1,27 @@
+.my-center {
+    text-align: center;
+}
+
+.our-menu {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.my-item {
+    background-color: rgb(248, 248, 248);
+    padding: 5px;
+}
+
+.my-item-name {
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.my-item-content {
+    padding: 5px;
+}
+
+.my-col {
+    padding: 15px;
+}
